@@ -7,7 +7,9 @@
 2. [部署第一个前端应用](https://github.com/ifyour/pdm/issues/2)
 3. [Shadowsocket 部署](https://github.com/ifyour/pdm/issues/3)
 4. [Nginx 安装与配置](https://github.com/ifyour/pdm/issues/4)
-5. [常见问题汇总](https://github.com/ifyour/pdm/issues/5)
+5. 自动部署
+6. https 配置
+7. [常见问题汇总](https://github.com/ifyour/pdm/issues/5)
 
 ### License
 
