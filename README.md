@@ -8,7 +8,7 @@
 3. [Shadowsocket 部署](https://github.com/ifyour/pdm/issues/3)
 4. [Nginx 安装与配置](https://github.com/ifyour/pdm/issues/4)
 5. 自动构建部署
-6. https 配置
+6. [https 配置](https://github.com/ifyour/pdm/issues/6)
 7. [常见问题汇总](https://github.com/ifyour/pdm/issues/5)
 
 ### License
